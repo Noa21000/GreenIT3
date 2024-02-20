@@ -2,6 +2,7 @@
 	font-family: 'Montserrat';
 	src: url('tethics/assets/font/Montserrat.woff2') format('woff2');
 	/* Ajoutez ici d'autres déclarations de format si nécessaire */
+	/* Préload HTML ? */
 }
 
 * {

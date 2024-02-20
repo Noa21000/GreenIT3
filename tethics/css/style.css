@@ -1,10 +1,13 @@
 @font-face {
 	font-family: 'Montserrat';
 	src: url('tethics/assets/font/Montserrat.woff2') format('woff2');
-	/* Ajoutez ici d'autres déclarations de format si nécessaire */
-
-	 /* Poppins */
 }
+
+@font-face {
+	font-family: 'Poppins';
+	src: url('tethics/assets/font/poppins-regular-webfont.woff2') format('woff2');
+}
+
 
 * {
 	margin: 0;
