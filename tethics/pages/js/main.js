@@ -20,3 +20,10 @@ function colorLink(){
 }
 
 linkColor.forEach(l => l.addEventListener('click', colorLink))
+
+
+document.addEventListener("DOMContentLoaded", function() {
+    var lazyLoadInstance = new LazyLoad({
+        elements_selector: ".lazyload"
+    });
+});

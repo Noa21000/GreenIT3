@@ -16,6 +16,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="535b760a-c65c-4c15-ab8e-d287e70ca24c" name="test" />
+    </servers>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -52,7 +57,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="greenIT" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" start_url="/index.php">
+    <configuration name="greenIT" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="37cae5b9-e8b2-4949-9172-aafa37fbc09c" server_name="test" start_url="/index.php">
       <method v="2" />
     </configuration>
   </component>
@@ -73,7 +78,8 @@
       <updated>1707810499084</updated>
       <workItem from="1707810500132" duration="1710000" />
       <workItem from="1707909556729" duration="182000" />
-      <workItem from="1708413207875" duration="4109000" />
+      <workItem from="1708413207875" duration="4213000" />
+      <workItem from="1709226842828" duration="3025000" />
     </task>
     <servers />
   </component>
